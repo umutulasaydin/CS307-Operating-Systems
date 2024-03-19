@@ -1,0 +1,3 @@
+2wc
+hw2.c
+grep

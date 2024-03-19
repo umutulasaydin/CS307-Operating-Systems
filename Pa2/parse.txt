@@ -1,0 +1,448 @@
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------
+----------
+Command: grep
+Inputs: danger
+Options:
+Redirection: <
+Background job: y
+----------
+----------
+Command: ls
+Inputs:
+Options: -a
+Redirection: -
+Background job: y
+----------
+----------
+Command: wc
+Inputs: hw2.c
+Options:
+Redirection: >
+Background job: n
+----------
+----------
+Command: grep
+Inputs: clearly
+Options: -i
+Redirection: <
+Background job: y
+----------

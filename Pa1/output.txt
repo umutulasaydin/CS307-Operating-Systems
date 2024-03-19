@@ -1,0 +1,11 @@
+       ping  [-aAbBdDfhLnOqrRUvV46]  [-c  count]  [-F  flowlabel]  [-i  interval]  [-I interface] [-l preload] [-m mark] [-M pmtudisc_option] [-N node‐
+       info_option] [-w deadline] [-W timeout] [-p pattern] [-Q tos] [-s packetsize] [-S sndbuf] [-t ttl] [-T timestamp option] [hop ...] destination
+
+--
+       -c count
+              Stop after sending count ECHO_REQUEST packets. With deadline option, ping waits for count ECHO_REPLY packets, until the timeout expires.
+
+--
+       ping is part of iputils package and the latest versions are  available in source form at http://www.skbuff.net/iputils/iputils-current.tar.bz2.
+
+
